@@ -1,0 +1,10 @@
+*.BAK 
+logs/
+test/
+tmp/
+db/
+modules/
+/.project
+/.classpath
+.settings/
+eclipse/
